@@ -35,23 +35,43 @@ Proses analisis data dilakukan secara sistematis melalui beberapa tahapan:
 
 ## 💡 Insight & Temuan (Insight & Findings)
 
-Berdasarkan EDA dan ringkasan dari AI, ditemukan beberapa profil segmen yang unik:
+Analisis data yang diperkaya dan diringkas oleh IBM Granite mengungkapkan empat persona pelanggan yang sangat berbeda:
 
-* **Segmen A:** Cenderung diisi oleh profesional dari bidang **Healthcare** dan **Engineer** dengan skor belanja **Rata-rata (Average)**. Mereka umumnya sudah menikah dan memiliki pengalaman kerja yang signifikan.
-* **Segmen B:** Didominasi oleh profesional di bidang **Artist** dan **Engineer**, namun dengan skor belanja **Rendah (Low)**. Segmen ini memiliki rentang usia yang luas.
-* **Segmen C:** Merupakan segmen dengan proporsi skor belanja **Tinggi (High)** yang paling signifikan. Banyak di antara mereka adalah **Eksekutif (Executive)** atau **Dokter (Doctor)**, seringkali dengan ukuran keluarga yang lebih besar.
-* **Segmen D:** Mayoritas adalah profesional **Artist** dengan skor belanja **Rendah (Low)**. Ini adalah segmen dengan usia rata-rata tertinggi dan banyak anggotanya sudah tidak bekerja atau pensiun.
+* **Segmen D: Generasi Muda & Profesional Kesehatan yang Hemat**
+    Ini adalah segmen dengan **rata-rata usia termuda (38 tahun)**. Mereka didominasi oleh profesional **Kesehatan**, diikuti oleh Seniman. Perilaku belanja mereka sangat jelas: mayoritas absolut berada di kategori **Skor Belanja Rendah**. Status pernikahan mereka paling seimbang (hampir 50/50 menikah dan lajang), menunjukkan mereka berada di tahap awal kehidupan dewasa.
+
+* **Segmen A: Profesional Kreatif & Kesehatan yang Fleksibel**
+    Dengan rata-rata usia 43 tahun, segmen ini merupakan kelompok besar yang beragam. Profesi utamanya adalah **Seniman**, diikuti oleh profesional **Kesehatan** dan **Hiburan**. Meskipun mayoritas memiliki Skor Belanja Rendah, mereka memiliki proporsi Skor Belanja Rata-rata yang signifikan, menunjukkan fleksibilitas finansial yang lebih besar daripada Segmen D.
+
+* **Segmen B: Para Seniman Mapan & Berorientasi Keluarga**
+    Segmen ini memiliki rata-rata usia sedikit lebih tua (45 tahun) dan **persentase pernikahan yang lebih tinggi (66%)** dibandingkan Segmen A. Profesi mereka juga berpusat pada **Seni** dan **Hiburan**. Pola belanja mereka mirip dengan Segmen A, namun dengan basis pelanggan yang lebih mapan dan berorientasi keluarga.
+
+* **Segmen C: Profesional Elit & Berdaya Beli Tinggi**
+    Ini adalah segmen premium dengan **rata-rata usia tertua (49 tahun)** dan **persentase pernikahan tertinggi (72%)**. Profesi mereka unik, dengan **Pengacara (Lawyer/Advokat)** masuk dalam 3 besar bersama Seniman. Yang terpenting, mereka memiliki **distribusi skor belanja paling seimbang** dan proporsi pelanggan dengan **Skor Belanja Tinggi** yang paling signifikan.
 
 ## 🎯 Kesimpulan & Rekomendasi
 
 **Kesimpulan:**
-Setiap segmen pelanggan memiliki karakteristik demografis dan perilaku yang berbeda secara signifikan. Pendekatan pemasaran "satu untuk semua" tidak akan efektif. Pemanfaatan AI seperti IBM Granite dapat mempercepat proses penerjemahan data mentah menjadi wawasan naratif yang dapat digunakan oleh tim bisnis.
+Segmentasi pelanggan tidak hanya valid, tetapi juga mengungkapkan perjalanan hidup pelanggan—dari profesional muda yang hemat (Segmen D) hingga kalangan elit yang mapan (Segmen C). Setiap segmen memerlukan produk dan pendekatan pemasaran yang sangat berbeda. Kesalahan terbesar adalah memperlakukan Segmen D sebagai segmen tua atau Segmen A dan B sebagai segmen yang identik.
 
-**Rekomendasi:**
-1.  **Untuk Segmen C (High Spenders):** Targetkan dengan produk premium (misalnya, mobil P4 atau P5) dan tawarkan layanan eksklusif. Kampanye pemasaran harus menonjolkan kemewahan, status, dan fitur-fitur canggih.
-2.  **Untuk Segmen D (Low Spenders, Older):** Fokus pada produk yang ekonomis dan andal (misalnya, mobil P1). Komunikasi pemasaran harus menekankan nilai, keamanan, dan kemudahan penggunaan, cocok untuk keluarga atau individu yang lebih tua.
-3.  **Untuk Segmen A & B (Mixed Professionals):** Tawarkan produk yang fleksibel dan seimbang dari segi harga dan fitur (misalnya, mobil P2 dan P3). Iklan bisa menyoroti efisiensi bahan bakar untuk profesional yang sering bepergian (Segmen A) dan desain/gaya untuk para seniman (Segmen B).
-4.  **Strategi Pasar Baru:** Gunakan model klasifikasi ini (baik LLM untuk sampel cepat atau model ML tradisional untuk skala besar) untuk memprediksi segmen calon pelanggan di pasar baru dan langsung terapkan strategi komunikasi yang relevan sejak awal.
+**Rekomendasi Bisnis yang Telah Disesuaikan:**
+
+1.  **Untuk Segmen C (Profesional Elit):**
+    * **Produk:** Fokuskan pada mobil paling premium (**P4, P5**).
+    * **Pemasaran:** Targetkan dengan pesan yang menonjolkan **kemewahan, status, pencapaian, dan keamanan** untuk keluarga yang mapan. Kampanye bisa menyasar kalangan profesional hukum dan eksekutif.
+
+2.  **Untuk Segmen D (Generasi Muda Hemat):**
+    * **Produk:** Tawarkan mobil paling ekonomis dan efisien (**P1**).
+    * **Pemasaran:** Ini adalah target untuk "mobil pertama". Pesan harus menonjolkan **nilai, efisiensi bahan bakar, fitur teknologi modern, dan kemudahan cicilan**. Targetkan profesional muda di sektor kesehatan.
+
+3.  **Untuk Segmen A (Kreatif & Fleksibel):**
+    * **Produk:** Tawarkan mobil serbaguna yang menyeimbangkan gaya dan fungsi (**P2, P3**).
+    * **Pemasaran:** Kampanye harus menyoroti **fleksibilitas, desain yang stylish** untuk para seniman, dan **kepraktisan** untuk rutinitas kerja profesional kesehatan.
+
+4.  **Untuk Segmen B (Seniman Mapan):**
+    * **Produk:** Tawarkan model yang sama dengan Segmen A (**P2, P3**), namun dengan penekanan pada paket aksesoris keluarga.
+    * **Pemasaran:** Pesan dapat berfokus pada **keandalan, ruang kabin yang nyaman untuk keluarga**, tanpa meninggalkan unsur **gaya** yang dihargai oleh para seniman.
+
 
 ## 🤖 Penjelasan Dukungan AI (AI Support Explanation)
 
