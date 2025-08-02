@@ -56,22 +56,21 @@ Segmentasi pelanggan tidak hanya valid, tetapi juga mengungkapkan perjalanan hid
 
 **Rekomendasi Bisnis yang Telah Disesuaikan:**
 
-1.  **Untuk Segmen C (Profesional Elit):**
-    * **Produk:** Fokuskan pada mobil paling premium (**P4, P5**).
-    * **Pemasaran:** Targetkan dengan pesan yang menonjolkan **kemewahan, status, pencapaian, dan keamanan** untuk keluarga yang mapan. Kampanye bisa menyasar kalangan profesional hukum dan eksekutif.
-
-2.  **Untuk Segmen D (Generasi Muda Hemat):**
-    * **Produk:** Tawarkan mobil paling ekonomis dan efisien (**P1**).
-    * **Pemasaran:** Ini adalah target untuk "mobil pertama". Pesan harus menonjolkan **nilai, efisiensi bahan bakar, fitur teknologi modern, dan kemudahan cicilan**. Targetkan profesional muda di sektor kesehatan.
-
-3.  **Untuk Segmen A (Kreatif & Fleksibel):**
+1.  **Untuk Segmen A (Kreatif & Fleksibel):**
     * **Produk:** Tawarkan mobil serbaguna yang menyeimbangkan gaya dan fungsi (**P2, P3**).
     * **Pemasaran:** Kampanye harus menyoroti **fleksibilitas, desain yang stylish** untuk para seniman, dan **kepraktisan** untuk rutinitas kerja profesional kesehatan.
 
-4.  **Untuk Segmen B (Seniman Mapan):**
+2.  **Untuk Segmen B (Seniman Mapan):**
     * **Produk:** Tawarkan model yang sama dengan Segmen A (**P2, P3**), namun dengan penekanan pada paket aksesoris keluarga.
     * **Pemasaran:** Pesan dapat berfokus pada **keandalan, ruang kabin yang nyaman untuk keluarga**, tanpa meninggalkan unsur **gaya** yang dihargai oleh para seniman.
 
+3.  **Untuk Segmen C (Profesional Elit):**
+    * **Produk:** Fokuskan pada mobil paling premium (**P4, P5**).
+    * **Pemasaran:** Targetkan dengan pesan yang menonjolkan **kemewahan, status, pencapaian, dan keamanan** untuk keluarga yang mapan. Kampanye bisa menyasar kalangan profesional hukum dan eksekutif.
+
+4.  **Untuk Segmen D (Generasi Muda Hemat):**
+    * **Produk:** Tawarkan mobil paling ekonomis dan efisien (**P1**).
+    * **Pemasaran:** Ini adalah target untuk "mobil pertama". Pesan harus menonjolkan **nilai, efisiensi bahan bakar, fitur teknologi modern, dan kemudahan cicilan**. Targetkan profesional muda di sektor kesehatan.
 
 ## 🤖 Penjelasan Dukungan AI (AI Support Explanation)
 
