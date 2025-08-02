@@ -37,9 +37,6 @@ Proses analisis data dilakukan secara sistematis melalui beberapa tahapan:
 
 Analisis data yang diperkaya dan diringkas oleh IBM Granite mengungkapkan empat persona pelanggan yang sangat berbeda:
 
-* **Segmen D: Generasi Muda & Profesional Kesehatan yang Hemat**
-    Ini adalah segmen dengan **rata-rata usia termuda (38 tahun)**. Mereka didominasi oleh profesional **Kesehatan**, diikuti oleh Seniman. Perilaku belanja mereka sangat jelas: mayoritas absolut berada di kategori **Skor Belanja Rendah**. Status pernikahan mereka paling seimbang (hampir 50/50 menikah dan lajang), menunjukkan mereka berada di tahap awal kehidupan dewasa.
-
 * **Segmen A: Profesional Kreatif & Kesehatan yang Fleksibel**
     Dengan rata-rata usia 43 tahun, segmen ini merupakan kelompok besar yang beragam. Profesi utamanya adalah **Seniman**, diikuti oleh profesional **Kesehatan** dan **Hiburan**. Meskipun mayoritas memiliki Skor Belanja Rendah, mereka memiliki proporsi Skor Belanja Rata-rata yang signifikan, menunjukkan fleksibilitas finansial yang lebih besar daripada Segmen D.
 
@@ -48,6 +45,9 @@ Analisis data yang diperkaya dan diringkas oleh IBM Granite mengungkapkan empat 
 
 * **Segmen C: Profesional Elit & Berdaya Beli Tinggi**
     Ini adalah segmen premium dengan **rata-rata usia tertua (49 tahun)** dan **persentase pernikahan tertinggi (72%)**. Profesi mereka unik, dengan **Pengacara (Lawyer/Advokat)** masuk dalam 3 besar bersama Seniman. Yang terpenting, mereka memiliki **distribusi skor belanja paling seimbang** dan proporsi pelanggan dengan **Skor Belanja Tinggi** yang paling signifikan.
+
+* **Segmen D: Generasi Muda & Profesional Kesehatan yang Hemat**
+    Ini adalah segmen dengan **rata-rata usia termuda (38 tahun)**. Mereka didominasi oleh profesional **Kesehatan**, diikuti oleh Seniman. Perilaku belanja mereka sangat jelas: mayoritas absolut berada di kategori **Skor Belanja Rendah**. Status pernikahan mereka paling seimbang (hampir 50/50 menikah dan lajang), menunjukkan mereka berada di tahap awal kehidupan dewasa.
 
 ## 🎯 Kesimpulan & Rekomendasi
 
